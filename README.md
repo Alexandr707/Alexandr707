@@ -4,6 +4,7 @@
 __My skils:__
 - React
 - Typescript
+- jsDoc
 - Redux Toolkit
 - css preprocessors (scss, sacc)
 - node js (express) (base level)
