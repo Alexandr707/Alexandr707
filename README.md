@@ -5,7 +5,7 @@ __My skils:__
 - React
 - Typescript
 - Redax
-- Rdux Toolkit
+- Redux Toolkit
 - Vue3 (Base level) 
 - Java (Base level) 
 - Kotlin (Base level) 
@@ -14,7 +14,6 @@ __My skils:__
 
 
 #### English level is around B1. 
- Writing is not so easy for me, but i'm working on it.
 
  [My telegram](https://t.me/AlexandrNS70)
 
