@@ -1,4 +1,22 @@
 ### Hi there 👋
+---
+
+__My skils:__
+- React
+- Typescript
+- Redax
+- Rdux Toolkit
+- Vue3 (Base level) 
+- Java (Base level) 
+- Kotlin (Base level) 
+- Dart (Base level) 
+
+
+
+#### English level is around B1. 
+ Writing is not so easy for me, but i'm working on it.
+
+ [My telegram](https://t.me/AlexandrNS70)
 
 <!--
 **Alexandr707/Alexandr707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
