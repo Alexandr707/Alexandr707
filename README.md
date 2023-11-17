@@ -2,9 +2,8 @@
 ---
 
 __My skils:__
--  React
+- React
 - Typescript
-- Redax
 - Redux Toolkit
 - node js (express) (base level)
 - Vue3 (Base level) 
