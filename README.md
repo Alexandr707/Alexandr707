@@ -1,7 +1,5 @@
 ### Hi there 👋
 ---
-#### English level is around B1. 
-
  [My telegram](https://t.me/AlexandrNS70)
 
 <!--
