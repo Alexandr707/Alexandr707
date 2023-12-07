@@ -1,20 +1,5 @@
 ### Hi there 👋
 ---
-
-__My skils:__
-- React
-- Typescript
-- jsDoc
-- Redux Toolkit
-- css preprocessors (scss, sacc)
-- node js (express) (base level)
-- Vue3 (Base level) 
-- Java (Base level) 
-- Kotlin (Base level) 
-- Dart (Base level) 
-
-
-
 #### English level is around B1. 
 
  [My telegram](https://t.me/AlexandrNS70)
